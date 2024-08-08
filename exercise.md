@@ -20,6 +20,8 @@
 
     Ex. 3: Criar uma classe para armazenar os dados do Usuario
 
+    // class @@@ {}
+
         - Nome
         - Email
         - Telefone
